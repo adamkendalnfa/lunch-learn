@@ -1,0 +1,25 @@
+body {
+	background: white;
+	color: #333333;
+	margin: 0;
+}
+.shapes {
+	position: relative;
+	width: 475px;
+}
+
+.score {
+	text-align: center;
+	font-family: Helvetica, Arial;
+	position: absolute;
+	top: 30px;
+	color: white;
+	font-size: 17px;
+}
+.currentScore {
+	left: 20px;
+}
+
+.highScore {
+	right: 20px;
+}
